@@ -1,0 +1,22 @@
+{
+  "name": "unittestingactivity",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "UnitTestingActivity.js",
+  "dependencies": {
+    "course-utilities": "^1.0.0",
+    "jest": "^26.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:CarolMarolEq/UnitTestingActivity.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "carolinerichter97@gmail.com",
+  "license": "ISC"
+}
